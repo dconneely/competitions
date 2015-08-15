@@ -1,0 +1,12 @@
+applications:
+- disk_quota: 1024M
+  domain: eu-gb.mybluemix.net
+  host: dcq2
+  name: dcq2
+  path: target/dcq2.war
+  memory: 512M
+  instances: 1
+  env:
+    JBP_CONFIG_IBMJDK: "version: 1.8.+"
+    JBP_CONFIG_SPRINGAUTORECONFIGURATION: "enabled: false"
+    JBP_CONFIG_LIBERTY: "app_archive: {features: [jaxrs-2.0]}"
