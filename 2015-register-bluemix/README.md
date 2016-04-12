@@ -5,7 +5,7 @@
 [I won it](http://www.theregister.co.uk/2015/08/27/ibm_bluemix_programming_competition_resuts/)
 gaining a massive 55" 4K TV in the process. Nice!
 
-This entry ran fastest when deployed to IBM Bluemix.
+This entry ran correctly in the fastest time when deployed to IBM's Bluemix Cloud Foundry service.
 
 ### Subdirectories
 
